@@ -15,7 +15,7 @@ This project analyzes retail sales data to uncover key business insights across 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas
